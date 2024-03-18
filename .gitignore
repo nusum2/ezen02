@@ -1,0 +1,8 @@
+# db 연결정보
+db.inc
+
+# 폴더
+/sample
+
+#확장자
+*.doc
